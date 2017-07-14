@@ -71,3 +71,5 @@ AzureStorage.ExponentialRetryPolicyFilter = azureCommon.ExponentialRetryPolicyFi
 AzureStorage.RetryPolicyFilter = azureCommon.RetryPolicyFilter;
 
 window.AzureStorage = AzureStorage;
+
+export default AzureStorage;
